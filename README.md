@@ -1,4 +1,5 @@
 Ski-dashboard
+
 Recommended Structure and Order
 1. ❄️ Snowy Analytics:
 Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
@@ -18,11 +19,13 @@ Example: The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
+
 More info on where the data comes from and how it’s structured Example: Source: Ski-resort-stats.com & NASA Earth Observations.
 
 Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
 
 5. Features / Highlights
+   
 The best dashboard explanation format. • Business problem • Goal of the dashboard • Walk through of key visuals (briefly!) • Business impact & Insights
 
 Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
