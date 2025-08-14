@@ -1,13 +1,16 @@
-1. Project Title / Headline
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+Ski-dashboard
+Recommended Structure and Order
+1. ❄️ Snowy Analytics:
+Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
 
 2. Short Description / Purpose
+
  The Snowy Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 499 ski resorts across 38 countries and 5 continents. The dashboard focuses on highlighting major ski resort features like summer skiing availability, night skiing, lift types, and slope difficulty. This tool is intended for use by tourism analysts, winter sports enthusiasts, travel companies, and data-driven strategists who seek to understand trends and characteristics of ski resorts globally.
 
 3. Tech Stack
 List the key technologies used to build the dashboard.
 
- The dashboard was built using the following tools and technologies:
+Example: The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
@@ -24,10 +27,7 @@ The best dashboard explanation format. • Business problem • Goal of the dash
 
 Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
 
-Key questions such as: 
-Which regions offer the most family-friendly or expert-level skiing? 
-Where is summer skiing available?
-What countries have the most well-equipped resorts? … are difficult to answer quickly with raw data.
+Key questions such as: Which regions offer the most family-friendly or expert-level skiing? Where is summer skiing available? What countries have the most well-equipped resorts? … are difficult to answer quickly with raw data.
 
 • Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore ski resorts globally. Supports decisions such as vacation planning, regional marketing, or infrastructure investment. Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
 
@@ -41,3 +41,4 @@ Resorts by Skill Level (Dual Line Charts) Two line visuals side by side: one for
 Elevation Stats (Grouped Bar Chart) Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
 Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lifts Chair lifts Surface lifts Total lifts This helps users gauge resort infrastructure and capacity.
 • Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+
