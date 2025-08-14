@@ -30,11 +30,17 @@ Data on ~500 ski resorts around the world, including details on their location, 
    
 The best dashboard explanation format. • Business problem • Goal of the dashboard • Walk through of key visuals (briefly!) • Business impact & Insights
 
-Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
+• Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
 
-Key questions such as: Which regions offer the most family-friendly or expert-level skiing? Where is summer skiing available? What countries have the most well-equipped resorts? … are difficult to answer quickly with raw data.
+Key questions such as: 
 
-• Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore ski resorts globally. Supports decisions such as vacation planning, regional marketing, or infrastructure investment. Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
+Which regions offer the most family-friendly or expert-level skiing?
+Where is summer skiing available?
+What countries have the most well-equipped resorts? … are difficult to answer quickly with raw data.
+
+• Goal of the Dashboard To deliver an interactive visual tool that:
+
+Enables users to explore ski resorts globally. Supports decisions such as vacation planning, regional marketing, or infrastructure investment. Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
 
 • Walkthrough of Key Visuals
 
